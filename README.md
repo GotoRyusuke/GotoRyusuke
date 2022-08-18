@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 GOTO Ryusuke(後藤龍介) here. Just Ryusuke will do. Also call me LONG(龙) or Nicolas, either one that easy for you to type and pronounce. 
 
-I am corrently working as an RA in the CUHK, and I provide some modules specific to the tasks I am or have been working with. Feel free to explore, 
+I am corrently working as an RA in the CUHK, and I provide some modules specific to the tasks I am or have been working on. Feel free to explore, 
 and it would be my great pleasure if there is anything useful for you.
 
 Feel freet to ask anything if you get confused when reading my codes. 
