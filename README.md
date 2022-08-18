@@ -25,4 +25,4 @@ Feel freet to ask anything if you get confused when reading my codes.
 💬Languages I speak: 
 - **ENG**:uk: 
 - **JPN**:jp:
-- ***CN**:cn:
+- **CN**:cn:
