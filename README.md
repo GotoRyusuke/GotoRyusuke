@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-GOTO Ryusuke(後藤龍介) here. I am currently working as an RA at the CUHK, and I provide some modules specific to the tasks I am or have been working on. Feel free to explore, and it would be my great pleasure if there is anything useful for you.
+I am currently working as an RA at the CUHK, and I provide some modules specific to the tasks I am or have been working on. Feel free to explore, and it would be my great pleasure if there is anything useful for you.
 
 Feel freet to ask anything if you get confused when reading the codes. 
 
