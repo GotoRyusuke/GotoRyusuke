@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Upcoming PhD student in the Department of Management at the CUHK. I provide some modules specific to the tasks I am or have been working on. Feel free to explore, and it would be my great pleasure if there is anything useful for you.
+PhD student in the Department of Management at the CUHK. I provide some modules specific to the tasks I am or have been working on. Feel free to explore, and it would be my great pleasure if there is anything useful for you.
 
 Feel free to ask anything if you get confused when reading the codes. Find me at: yuhang1012long@link.cuhk.edu.hk
 
