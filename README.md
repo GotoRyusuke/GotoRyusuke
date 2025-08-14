@@ -11,8 +11,8 @@ I am currently a PhD student in the Department of Management at the CUHK. I prov
 Feel free to ask anything if you get confused when reading the codes. Find me at: yuhang1012long@link.cuhk.edu.hk
 
 💬Languages I speak: 
-- **ENG**:uk: 
-- **JPN**:jp:
-- **CN**:cn:
+- **JPN** 🎌
+- **ENG** :uk: 
+- **CN** :cn:
 
 
